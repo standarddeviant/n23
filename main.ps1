@@ -1,0 +1,1 @@
+$env:NU_LOG_LEVEL='info'; nu .\main.nu
